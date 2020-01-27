@@ -3,6 +3,8 @@ A clean and minimal responsive HTML invoice template, built using Bootstrap. Lic
 
 ![Responsive invoice](https://raw.githubusercontent.com/d-shannon/bootstrap-invoice-template/master/responsive.png)
 
+Below is the invoice rendered as a Letter sized document:
+![Responsive invoice](https://raw.githubusercontent.com/d-shannon/bootstrap-invoice-template/master/invoice.png)
 
 ### HTML converted to PDF by https://docamatic.com
-[Download PDF](https://raw.githubusercontent.com/d-shannon/bootstrap-invoice-template/master/invoice.pdf)
+##[Download Example PDF](https://raw.githubusercontent.com/d-shannon/bootstrap-invoice-template/master/invoice.pdf)
